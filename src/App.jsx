@@ -45,6 +45,7 @@ export default function App() {
             className="max-h-screen w-auto"
             src="/intro take 4.mp4"
             autoPlay
+            muted
             playsInline
             preload="auto"
             poster="/new.jpeg"
@@ -72,7 +73,7 @@ export default function App() {
               src="/lo.mp4" 
               className="w-full h-full object-cover rounded-2xl bg-white/8 backdrop-blur-md ring-1 ring-white/20 shadow-inner" 
               autoPlay 
-              muted 
+              controls
               loop 
               playsInline 
             />
