@@ -74,6 +74,7 @@ export default function App() {
               className="w-full h-full object-cover rounded-2xl bg-white/8 backdrop-blur-md ring-1 ring-white/20 shadow-inner" 
               autoPlay 
               controls
+              muted
               loop 
               playsInline 
             />
