@@ -13,9 +13,9 @@ dist-ssr
 *.local
 
 # Large media files excluded from git (hosted on deployment server)
-public/*.mp4
-public/*.png
-public/*.jpeg
+# public/*.mp4
+# public/*.png
+# public/*.jpeg
 
 # Editor directories and files
 .vscode/*
