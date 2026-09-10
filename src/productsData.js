@@ -1,4 +1,4 @@
-﻿export const PRODUCTS = [
+export const PRODUCTS = [
   {
     brand: 'BFTPL-TRICHO-566',
     displayName: 'BFTPL TRICHO 566',
@@ -222,7 +222,7 @@
   {
     brand: 'BFTPL-NPPR-566',
     displayName: 'BFTPL NPPR 566',
-    description: 'BFTPL NPP 566 is a premium microbial consortium bio-fertilizer containing a combination of beneficial microorganisms that support Nitrogen Fixation, Phosphorus Solubilization, and Potassium Mobilization. The synergistic action of these microbes improves soil fertility, enhances nutrient availability, promotes root development, and increases crop productivity. BFTPL NPP 566 is an eco-friendly solution for sustainable agriculture and integrated nutrient management.',
+    description: 'BFTPL NPPR 566 is a premium microbial consortium bio-fertilizer containing a combination of beneficial microorganisms that support Nitrogen Fixation, Phosphorus Solubilization, and Potassium Mobilization. The synergistic action of these microbes improves soil fertility, enhances nutrient availability, promotes root development, and increases crop productivity. BFTPL NPPR 566 is an eco-friendly solution for sustainable agriculture and integrated nutrient management.',
     gazette: ['Nitrogen Fixing Bacteria (NFB)', 'Phosphate Solubilizing Bacteria (PSB)', 'Potassium Mobilizing Bacteria (KMB)', 'Beneficial Plant Growth Promoting Rhizobacteria (PGPR)', 'CFU Count: Minimum 1 \u00d7 10\u2078 CFU/ml (Liquid) / 5 \u00d7 10\u2077 CFU/g (Powder)'],
     specification: ['Improves overall soil fertility.', 'Enhances root development and crop vigor.', 'Promotes healthy vegetative growth.', 'Improves flowering, fruiting, and yield.', 'Increases nutrient use efficiency.', 'Enhances crop quality and productivity.', 'Supports sustainable and organic farming practices.'],
     category: 'Microbial Consortium Bio-Fertilizer',
